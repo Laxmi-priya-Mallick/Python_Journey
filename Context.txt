@@ -1,0 +1,8 @@
+Hello!
+
+This repository is to created to show my learning progress in python programming language. 
+I am trying to polish and update my knowledge in python to have a strong command over Machine Learning and Deep Learning.
+All my notes and example programs in python are referred from CS50 python lectures by Harvard from YouTube.
+This series will also show my approach to solve data structure problems in python along with short notes in my style.
+
+Thank You!
