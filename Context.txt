@@ -6,3 +6,4 @@ All my notes and example programs in python are referred from CS50 python lectur
 This series will also show my approach to solve data structure problems in python along with short notes in my style.
 
 Thank You!
+Laxmi Priya
