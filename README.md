@@ -1,1 +1,1 @@
-This repository my journey in learning python.
+Python for machine learning and deep learning.
